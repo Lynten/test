@@ -4,7 +4,8 @@ public class Test {
 		String a = "ABC";
 		String b = a;
 		a = "XYZ";
-		System.out.println(b+a);
+		System.out.println(b + a);
+		System.out.print(a);
 	}
 
 }
